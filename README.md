@@ -1,6 +1,6 @@
 # Github-finder-app
 
-A React app for Calling Github API to retrieve individual profile information
+A React app for calling Github API to retrieve individual profile information
 
 Deployed to Vercel
 
